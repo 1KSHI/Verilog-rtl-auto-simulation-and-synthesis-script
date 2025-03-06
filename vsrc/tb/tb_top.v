@@ -1,6 +1,6 @@
 module tb_top();
 reg clk, rst;
-wire counter;
+wire [3:0]counter;
 
 top uut(
     .clk(clk),
