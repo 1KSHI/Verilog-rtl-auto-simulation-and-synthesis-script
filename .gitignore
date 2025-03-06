@@ -1,0 +1,10 @@
+build/
+yosys/result/
+vivado_sim/
+reports/
+vivado*.log vivado*.jou
+.Xil/
+.cache/
+.sim/
+*.vcd 
+*.view
